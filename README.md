@@ -25,6 +25,3 @@
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README.md file provides a concise yet comprehensive overview of your Asset Management System project, including setup instructions, usage guidelines, project structure, technologies used, and licensing information. Adjust paths and details according to your actual project setup.
